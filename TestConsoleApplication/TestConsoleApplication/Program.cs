@@ -10,6 +10,7 @@ namespace TestConsoleApplication
         static void Main(string[] args)
         {
             Console.WriteLine("Hello GitHub");
+            Console.WriteLine("The end.");
         }
     }
 }
